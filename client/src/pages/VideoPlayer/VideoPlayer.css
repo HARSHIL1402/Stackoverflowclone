@@ -1,0 +1,15 @@
+.react-player {
+    position: center;
+    display: flex;
+    padding: 60px 100px;
+  }
+.h1 {
+    width: calc(100% - 300px - 24px);
+    float: left;
+    margin: 25px 0px;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 400;
+}
